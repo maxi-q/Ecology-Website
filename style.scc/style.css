@@ -1,0 +1,19 @@
+section {
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+.carousel-control-prev-icon {
+    background-image: url(../Images/angle-left.svg);
+}
+.carousel-control-next-icon {
+    background-image: url(../Images/angle-right.svg);
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+}
+.carousel-control-next {
+    right: -40px;
+}
+.carousel-control-prev {
+    left: -40px;
+}
